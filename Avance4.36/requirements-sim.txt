@@ -1,0 +1,5 @@
+ase<=3.25.0
+matplotlib==3.8.4
+numpy<2.0
+pandas
+mattersim>=1.1
