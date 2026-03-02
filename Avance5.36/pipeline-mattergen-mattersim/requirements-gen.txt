@@ -1,0 +1,2 @@
+# Bootstrap dependency for installing MatterGen from local pyproject.
+uv>=0.4.0

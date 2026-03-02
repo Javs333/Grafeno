@@ -1,0 +1,9 @@
+ase<=3.25.0
+matplotlib==3.8.4
+numpy<2.0
+pandas
+mattersim>=1.1
+pydantic>=2.7
+requests>=2.31
+azure-storage-blob>=12.22
+psycopg[binary]>=3.2
